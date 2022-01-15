@@ -36,8 +36,8 @@
 
 <details><summary>Show More</summary>
 
-### Marking Page 2
-![IOS Marking Page 2](images/IOS_Marking2.png)
+### Summary Page
+![IOS Summary Page](images/IOS_Summary.png)
 
 </details>
 
