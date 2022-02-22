@@ -3,7 +3,7 @@
 - ## Exercise Community Prototype
 
 ### Booking Details
-![Booking Details](/images/BookingDetails@3x.png)
+![Booking Details](images/BookingDetails@3x.png)
 
 <details><summary>Show More Prototypes</summary>
 
@@ -17,7 +17,7 @@
 ![Group Home Page](images/GroupHome@3x.png)
 </details>
 
-- ## Andriod
+<!-- - ## Andriod
 
 ### Marking Page
 ![Android Marking Page](images/Android_Marking.png)
@@ -39,6 +39,6 @@
 ### Summary Page
 ![IOS Summary Page](images/IOS_Summary.png)
 
-</details>
+</details> -->
 
 
