@@ -5,7 +5,7 @@
 ### Booking Details
 ![Booking Details](images/BookingDetails@3x.png)
 
-<details><summary>Show More Prototypes</summary>
+<!-- <details><summary>Show More Prototypes</summary> -->
 
 ### Booking Home Page
 ![Booking Home Page](images/BookingHome@3x.png)
@@ -15,7 +15,7 @@
 
 ### Group Home Page
 ![Group Home Page](images/GroupHome@3x.png)
-</details>
+<!-- </details> -->
 
 <!-- - ## Andriod
 
